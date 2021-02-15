@@ -1,0 +1,28 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 200%;
+}
+
+main { 
+    margin: 0 5vw;
+}
+
+button {
+    background-color: blue;
+    color: ghostwhite;
+}
+
+label {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+form {
+    align-items: center;
+}
+
+p {
+    margin: 7vh 0vw;
+    font-weight: bold;
+}
